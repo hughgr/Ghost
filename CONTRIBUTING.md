@@ -1,3 +1,4 @@
+
 # Welcome to the contributing guide for Ghost!
 
 So you're interested in giving us a hand? That's awesome! We've put together some guidelines that should help
